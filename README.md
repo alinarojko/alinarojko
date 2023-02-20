@@ -38,7 +38,6 @@ Soft Skills:✨
 ![Attentive_to_details](https://img.shields.io/badge/-Attentive_to_details-f45d43)
 ![Stress_resistant](https://img.shields.io/badge/-Stress_resistant-f45d43)
 ![Reliability](https://img.shields.io/badge/-Reliability-f45d43)
-![Multitasking](https://img.shields.io/badge/-Multitasking-f45d43)
 ![Detail_oriented](https://img.shields.io/badge/-Detail_oriented-f45d43)
 ![Organized](https://img.shields.io/badge/-Organized-f45d43)
 ![good team player](https://img.shields.io/badge/-Good_team_player-f45d43)
@@ -70,5 +69,5 @@ Follow me:
 [![Linkendin](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/qalina-rozhko/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/chyprina.alina)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/alina_rojko)
-[![Skype](https://img.shields.io/badge/-SKYPE-090909?style=for-the-badge&logo=skype)](https://secure.skype.com/portal/profile)
+[![Skype](https://img.shields.io/badge/-SKYPE-090909?style=for-the-badge&logo=skype)](https://join.skype.com/invite/J9WyZ5cst4Zn)
 
