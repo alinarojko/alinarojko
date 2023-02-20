@@ -47,12 +47,12 @@ This is the place where I can introduce myself !
 
 
 ## My CV 💬
-[![CV](https://img.shields.io/badge/-CV_Rozhko_Alina_QA_Engineer-ffa200)](https://drive.google.com/file/d/1lezOs0zu6LA20V1cZI34LX1IOBFecbCB/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CV_Rozhko_Alina_QA_Engineer-ffa200)](https://drive.google.com/file/d/1wx_y-WFjugs-hqGlX_uM7At6B36bt6vU/view?usp=sharing)
 
 ## Google Disk with my PORTFOLIO 💬
 
 ### Api Testing/ Using  POSTMAN
-[![CV](https://img.shields.io/badge/-Requiests_in_POSTMAN-f45d43)](https://drive.google.com/drive/folders/1lu1iwTGRApSR8lrEXGe7SAdhtp6WHIHb?usp=sharing)
+[![CV](https://img.shields.io/badge/-Requests_in_POSTMAN-f45d43)](https://drive.google.com/drive/folders/1lu1iwTGRApSR8lrEXGe7SAdhtp6WHIHb?usp=sharing)
 
 ### Mobile-App Testing
 [![CV](https://img.shields.io/badge/-Mobile_APP_Testing-f45d43)](https://drive.google.com/drive/folders/1Hw17wzfDN2xgSchYsODyO1MS9XWpjOU5?usp=sharing)
@@ -61,7 +61,7 @@ This is the place where I can introduce myself !
 [![CV](https://img.shields.io/badge/-WEB_App_Testing-f45d43)](https://drive.google.com/drive/folders/1hEwK7pctRo0jDLJo8oXDqWPMJGi8lsui?usp=sharing)
 
 ### Test Tasks/ Testing lift "Otis" and Teapot
-[![CV](https://img.shields.io/badge/-Testing_Lift_and_Teapot-f45d43)](https://drive.google.com/drive/folders/1hEwK7pctRo0jDLJo8oXDqWPMJGi8lsui?usp=sharing)
+[![CV](https://img.shields.io/badge/-Testing_Lift_and_Teapot-f45d43)](https://drive.google.com/drive/folders/1PXYixVc_eu-v9NK9PWm_9P4c7cHR_iFl?usp=sharing)
 
 ### Test Design Techniques
 [![CV](https://img.shields.io/badge/-Test_Design_Techniquest-f45d43)](https://drive.google.com/drive/folders/12wursUfh7GakTyCEl0IKL1egTYAYUytl?usp=sharing)
