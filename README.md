@@ -3,10 +3,16 @@
 This is the place where I can introduce myself !
 
 🔭  I’m currently looking for cool work  😉
+
 🌱  I’m currently learning Selenium WebDriver + Java
+
 💬  Ask me about anything related to Manual Software Testing
+
 👨‍💻  Find  more about my projects at SkillUp 
+
 ⚡  Fun fact: I ❤️ cats, sport, studying and sea!
+
+
 
 Hard Skills:✨
 
@@ -22,6 +28,7 @@ Hard Skills:✨
 ![Test-Design-Techniques](https://img.shields.io/badge/-Test_Design_Techniques-ffa200)
 ![HTML_CSS_TCP/IP](https://img.shields.io/badge/-HTML_CCS_TCP/IP-ffa200)
 ![Writting_Test_Documentation](https://img.shields.io/badge/-Writting_Test_Documentation-ffa200)
+
 
 
 Soft Skills:✨
@@ -59,4 +66,9 @@ Studying:
 ⚡During this year i'm planning to pass ISTQB Sertification 
 
 Follow me:
-https://www.linkedin.com/in/qalina-rozhko/
+
+[![Linkendin](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/qalina-rozhko/)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/chyprina.alina)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/alina_rojko)
+[![Skype](https://img.shields.io/badge/-SKYPE-090909?style=for-the-badge&logo=skype)](live:.cid.e8f2d6775cf191a7)
+
