@@ -47,7 +47,7 @@ This is the place where I can introduce myself !
 
 
 ## My CV 💬
-[![CV](https://img.shields.io/badge/-CV_Rozhko_Alina_QA_Engineer-ffa200)](https://drive.google.com/file/d/1wx_y-WFjugs-hqGlX_uM7At6B36bt6vU/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CV_Rozhko_Alina_QA_Engineer-ffa200)](https://drive.google.com/file/d/1grJzaNmVAJypJtcHKoG6Y1P68VAOlZie/view?usp=sharing)
 
 ## Google Disk with my PORTFOLIO 💬
 
