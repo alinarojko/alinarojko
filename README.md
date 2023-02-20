@@ -70,5 +70,5 @@ Follow me:
 [![Linkendin](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/qalina-rozhko/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/chyprina.alina)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/alina_rojko)
-[![Skype](https://img.shields.io/badge/-SKYPE-090909?style=for-the-badge&logo=skype)](live:.cid.e8f2d6775cf191a7)
+[![Skype](https://img.shields.io/badge/-SKYPE-090909?style=for-the-badge&logo=skype)](https://secure.skype.com/portal/profile)
 
