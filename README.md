@@ -14,7 +14,7 @@ This is the place where I can introduce myself !
 
 
 
-### Hard Skills:✨
+## Hard Skills:✨
 
 ![Jira](https://img.shields.io/badge/-JIRA-ffa200)
 ![SQL](https://img.shields.io/badge/-SQL-ffa200)
@@ -31,7 +31,7 @@ This is the place where I can introduce myself !
 
 
 
-### Soft Skills:✨
+## Soft Skills:✨
 
 ![English](https://img.shields.io/badge/-English_B2-f45d43)
 ![Spanish](https://img.shields.io/badge/-Spanish_A1-f45d43)
@@ -46,24 +46,39 @@ This is the place where I can introduce myself !
 
 
 
-### My CV 💬
-[![CV](https://img.shields.io/badge/-CV_Rozhko_Alina_QA_Engineer-ff3fa8)](https://drive.google.com/file/d/1lezOs0zu6LA20V1cZI34LX1IOBFecbCB/view?usp=sharing)
+## My CV 💬
+[![CV](https://img.shields.io/badge/-CV_Rozhko_Alina_QA_Engineer-ffa200)](https://drive.google.com/file/d/1lezOs0zu6LA20V1cZI34LX1IOBFecbCB/view?usp=sharing)
 
-### Google Disk with my PORTFOLIO 💬
-[![CV](https://img.shields.io/badge/-Test_cases/Test_Plan/Check_Lists/Тest_Tasks-ff3f61)](https://drive.google.com/drive/folders/1dyw9KIzoBdf4VMicuLnhej4maXZ8-ZAE?usp=sharing)
+## Google Disk with my PORTFOLIO 💬
+
+### Api Testing/ Using  POSTMAN
+[![CV](https://img.shields.io/badge/-Requiests_in_POSTMAN-f45d43)](https://drive.google.com/drive/folders/1lu1iwTGRApSR8lrEXGe7SAdhtp6WHIHb?usp=sharing)
+
+### Mobile-App Testing
+[![CV](https://img.shields.io/badge/-Mobile_APP_Testing-f45d43)](https://drive.google.com/drive/folders/1Hw17wzfDN2xgSchYsODyO1MS9XWpjOU5?usp=sharing)
+
+### Web-App Testing
+[![CV](https://img.shields.io/badge/-WEB_App_Testing-f45d43)](https://drive.google.com/drive/folders/1hEwK7pctRo0jDLJo8oXDqWPMJGi8lsui?usp=sharing)
+
+### Test Tasks/ Testing lift "Otis" and Teapot
+[![CV](https://img.shields.io/badge/-Testing_Lift_and_Teapot-f45d43)](https://drive.google.com/drive/folders/1hEwK7pctRo0jDLJo8oXDqWPMJGi8lsui?usp=sharing)
+
+### Test Design Techniques
+[![CV](https://img.shields.io/badge/-Test_Design_Techniquest-f45d43)](https://drive.google.com/drive/folders/12wursUfh7GakTyCEl0IKL1egTYAYUytl?usp=sharing)
+
 
 
 
  
  
 
-### Studying:💬 
+## Studying:💬 
 
 ⚡IT Courses : Selenium WebDriver + Java
 
 ⚡Preparation for the  ISTQB Sertification 
 
-### Follow me:
+## Follow me:
 
 [![Linkendin](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/qalina-rozhko/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/chyprina.alina)
