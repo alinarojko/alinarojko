@@ -1,19 +1,4 @@
 
-
-This is the place where I can introduce myself !
-
-🔭  I’m currently looking for cool work  😉
-
-🌱  I’m currently learning Selenium WebDriver + Java
-
-💬  Ask me about anything related to Manual Software Testing
-
-👨‍💻  Find  more about my projects at SkillUp 
-
-⚡  Fun fact: I ❤️ cats, sport, studying and sea!
-
-
-
 ## Hard Skills:✨
 
 ![Jira](https://img.shields.io/badge/-JIRA-ffa200)
